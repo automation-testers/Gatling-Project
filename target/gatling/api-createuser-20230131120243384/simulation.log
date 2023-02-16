@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.API_CreateUser	api-createuser	1675166563384	 	3.6.1
+USER	Create a new user	START	1675166564792
+REQUEST		Create a new user request	1675166564848	1675166566078	KO	status.find.is(201), but actually found 404
+USER	Create a new user	END	1675166566110

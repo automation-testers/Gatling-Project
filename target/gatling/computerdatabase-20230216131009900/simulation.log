@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.ComputerDatabase	computerdatabase	1676553009900	s	3.6.1
+USER	ComputerDatabase	START	1676553011947
+REQUEST		request_0	1676553011988	1676553013214	OK	 
+USER	ComputerDatabase	END	1676553013370

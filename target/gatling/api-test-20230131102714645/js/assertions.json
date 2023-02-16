@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.API_Test",
+  "simulationId": "api-test",
+  "start": 1675160834645,
+  "description": "test",
+  "scenarios": ["Create a new user"],
+  "assertions": [
+
+  ]
+}

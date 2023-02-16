@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.API_UserDetails	api-userdetails	1675166776505	s	3.6.1
+USER	Get User Details	START	1675166777868
+REQUEST		Get User Details	1675166777933	1675166778309	KO	status.find.is(200), but actually found 401
+USER	Get User Details	END	1675166778337

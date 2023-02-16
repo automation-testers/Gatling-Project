@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.API_Test	api-test	1675160795439	sample	3.6.1
+USER	Create a new user	START	1675160796208
+REQUEST		Create a new user request	1675160796246	1675160796441	KO	header(X-Served-By).find.is(mm-eu-west-1), but actually found nothing
+USER	Create a new user	END	1675160796471

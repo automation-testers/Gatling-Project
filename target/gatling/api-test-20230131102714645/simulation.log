@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.API_Test	api-test	1675160834645	test	3.6.1
+USER	Create a new user	START	1675160835430
+REQUEST		Create a new user request	1675160835467	1675160835850	OK	 
+USER	Create a new user	END	1675160835866

@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.API_UserDetails	api-userdetails	1675167013098	 	3.6.1
+USER	Get User Details	START	1675167014235
+REQUEST		Get User Details	1675167014294	1675167015439	OK	 
+USER	Get User Details	END	1675167015459

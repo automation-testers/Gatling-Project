@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.API_Test	api-test	1675160738424	sample	3.6.1
+ERROR	Create a new user request: Failed to build request: No attribute named 'path' is defined 	1675160739267
+USER	Create a new user	START	1675160739261
+USER	Create a new user	END	1675160739273
